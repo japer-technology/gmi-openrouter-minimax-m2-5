@@ -20,6 +20,8 @@ A repository-local AI framework that plugs into a developer’s existing workflo
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![AI](https://img.shields.io/badge/Assisted-Development-2b2bff?logo=openai&logoColor=white) [![github-minimum-intelligence-agent](https://github.com/japer-technology/github-minimum-intelligence/actions/workflows/github-minimum-intelligence-agent.yml/badge.svg)](https://github.com/japer-technology/github-minimum-intelligence/actions/workflows/github-minimum-intelligence-agent.yml)
 
+**Meet your agent — read [ABEL.md](ABEL.md)** to understand my capabilities, tools, and how we can work together.
+
 Powered by [pi-mono](https://github.com/badlogic/pi-mono), conversation history is committed to git, giving your agent long-term memory across sessions. It can search prior context, edit or summarize past conversations, and all changes are versioned.
 
 ---
